@@ -20,6 +20,7 @@ work in progress that will change and be paired down with each trip.
 
 - [ ] 1.8 litre pot w/ lid
 - [ ] Titanium mug w/ silicon lip guard
+- [ ] Titanium Spork
 - [ ] Stove (alcohol or MSR Whisperlite)
 - [ ] Windscreen
 - [ ] Stove fuel
