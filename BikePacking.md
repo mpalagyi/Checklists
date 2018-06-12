@@ -27,12 +27,15 @@ work in progress that will change and be paired down with each trip.
 - [ ] Water filter
 - [ ] Water purification tabs
 - [ ] Spork
+- [ ] Spices
+- [ ] Salt/Pepper
 - [ ] Coffee drip cone
 - [ ] #4 coffee filters
 - [ ] MSR water bladder
 - [ ] Matches
 - [ ] Fire steel
 - [ ] Flask
+- [ ] Ziplock bags
 
 ## Tool Kit
 
@@ -44,12 +47,15 @@ work in progress that will change and be paired down with each trip.
 - [ ] Duct tape
 - [ ] Zip ties
 - [ ] Chain link
+- [ ] Brake cables (longer trips)
+- [ ] Derailleur cables (longer trips)
 - [ ] Brake pads
 - [ ] Chain lube
 - [ ] Multitool
 - [ ] Leatherman
 - [ ] Pocketknife
 - [ ] First-aid kit
+- [ ] Emergency blanket
 
 ## Navigation & Electronics
 
@@ -59,7 +65,10 @@ work in progress that will change and be paired down with each trip.
 - [ ] USB cables (micro & USB C)
 - [ ] Solar charger
 - [ ] Map
-- [ ] Compass
+- [ ] Pen?
+- [ ] Notebook?
+- [ ] Compass w/ Mirror
+- [ ] Permits
 
 ## Clothing
 
@@ -76,6 +85,7 @@ work in progress that will change and be paired down with each trip.
 - [ ] Spare riding shirt
 - [ ] Spare socks (x2)
 - [ ] Hat
+- [ ] Buff
 - [ ] Swimsuit?
 
 ## Wearing
@@ -88,23 +98,29 @@ work in progress that will change and be paired down with each trip.
 - [ ] Gloves
 - [ ] Glasses
 - [ ] HR Monitor
+- [ ] Bike shoes
 
 ## Wash Kit
 
 - [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Campsuds
+- [ ] Deodorant
 - [ ] Small towel
 - [ ] Comb
 - [ ] Toilet paper
 - [ ] Advil
 - [ ] Inhaler
-- [ ] Butt butter?
+- [ ] Insect Repellent
+- [ ] Sunscreen
+- [ ] Lip balm
+- [ ] Chamois Cream?
 
 ## Food
 
 - [ ] Freeze dried meals
 - [ ] Trail mix
+- [ ] Granola
 - [ ] Beef jerky
 - [ ] Coffee
 - [ ] Candy
@@ -118,5 +134,10 @@ work in progress that will change and be paired down with each trip.
 - [ ] Top tube bag
 - [ ] Rear light
 - [ ] Spare straps
-- [ ] Waterbottles
+- [ ] Water bottles
 - [ ] 5 litre dry bags (x2) for fork cages
+- [ ] Paracord clothes line
+- [ ] Whistle
+- [ ] Lock
+- [ ] Credit/debit cards and ID
+- [ ] Watch
