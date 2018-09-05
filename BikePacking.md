@@ -6,15 +6,38 @@ work in progress that will change and be paired down with each trip.
 ## Sleeping
 
 - [ ] Sleeping bag
-- [ ] Sleeping pad
 - [ ] Stuff pillow
+- [ ] Headlamp
+
+Plus one of the following shelter systems;
+
+### Tent
+
+- [ ] Tent, poles & pegs
+- [ ] Sleeping pad
+- [ ] Groundsheet
+
+### Tarp
+
+- [ ] Sleeping pad
 - [ ] Tarp
 - [ ] Guylines
 - [ ] Tent pegs
 - [ ] Groundsheet
 - [ ] Bug net
-- [ ] Headlamp
-- [ ] Blow up solar lantern
+
+### Bivibag
+
+- [ ] Bivibag
+- [ ] Sleeping pad
+
+### Hammock
+
+- [ ] Hammock
+- [ ] Bug net
+- [ ] Tarp
+- [ ] Tent pegs
+- [ ] Underquilt
 
 ## Cooking
 
@@ -24,17 +47,10 @@ work in progress that will change and be paired down with each trip.
 - [ ] Stove (alcohol or MSR Whisperlite)
 - [ ] Windscreen
 - [ ] Stove fuel
-- [ ] Water filter
 - [ ] Water purification tabs
-- [ ] Spork
-- [ ] Spices
-- [ ] Salt/Pepper
-- [ ] Coffee drip cone
-- [ ] #4 coffee filters
 - [ ] MSR water bladder
 - [ ] Matches
 - [ ] Fire steel
-- [ ] Flask
 - [ ] Ziplock bags
 
 ## Tool Kit
@@ -51,23 +67,19 @@ work in progress that will change and be paired down with each trip.
 - [ ] Derailleur cables (longer trips)
 - [ ] Brake pads
 - [ ] Chain lube
+- [ ] Rags
 - [ ] Multitool
 - [ ] Leatherman
 - [ ] Pocketknife
 - [ ] First-aid kit
-- [ ] Emergency blanket
 
 ## Navigation & Electronics
 
 - [ ] Garmin Edge 1000
 - [ ] USB battery pack
-- [ ] USB chargers (x2)
+- [ ] USB charger
 - [ ] USB cables (micro & USB C)
-- [ ] Solar charger
 - [ ] Map
-- [ ] Pen?
-- [ ] Notebook?
-- [ ] Compass w/ Mirror
 - [ ] Permits
 
 ## Clothing
@@ -79,19 +91,16 @@ work in progress that will change and be paired down with each trip.
 - [ ] Shorts
 - [ ] Long sleeve merino wool shirt
 - [ ] Light pants
-- [ ] Leg warmers
-- [ ] Arm warmers
 - [ ] Spare riding shorts
 - [ ] Spare riding shirt
-- [ ] Spare socks (x2)
+- [ ] Spare socks
 - [ ] Hat
 - [ ] Buff
-- [ ] Swimsuit?
+- [ ] Swimsuit
 
 ## Wearing
 
 - [ ] Riding shorts
-- [ ] Riding undershorts
 - [ ] Riding shirt
 - [ ] Socks
 - [ ] Helmet
@@ -107,23 +116,18 @@ work in progress that will change and be paired down with each trip.
 - [ ] Campsuds
 - [ ] Deodorant
 - [ ] Small towel
-- [ ] Comb
 - [ ] Toilet paper
 - [ ] Advil
 - [ ] Inhaler
 - [ ] Insect Repellent
 - [ ] Sunscreen
 - [ ] Lip balm
-- [ ] Chamois Cream?
 
 ## Food
 
 - [ ] Freeze dried meals
 - [ ] Trail mix
-- [ ] Granola
-- [ ] Beef jerky
 - [ ] Coffee
-- [ ] Candy
 
 ## Other
 
