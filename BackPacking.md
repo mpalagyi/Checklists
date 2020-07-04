@@ -1,6 +1,6 @@
-# Bike Packing Checklist
+# Back Packing Checklist
 
-This list is for lightweight gravel or mountainbike touring. It is an evolving
+This list is for lightweight hiking and backpacking trips. It is an evolving
 work in progress that will change and be paired down with each trip.
 
 ## Sleeping
@@ -59,29 +59,16 @@ Plus one of the following shelter systems;
 
 ## Tool Kit
 
-- [ ] Spare innertubes
-- [ ] Pump
-- [ ] Tire boot
-- [ ] Patch kit
-- [ ] Tire levers
 - [ ] Duct tape
 - [ ] Zip ties
-- [ ] Chain link
-- [ ] Brake cables (longer trips)
-- [ ] Derailleur cables (longer trips)
-- [ ] Brake pads
-- [ ] Chain lube
-- [ ] Rags
-- [ ] Multitool
 - [ ] Leatherman
 - [ ] Pocketknife
 - [ ] First-aid kit
 
 ## Navigation & Electronics
 
-- [ ] Garmin Edge 1000
 - [ ] USB battery pack
-- [ ] USB charger
+- [ ] USB charger*
 - [ ] USB cables (micro & USB C)
 - [ ] Map
 - [ ] Permits
@@ -91,12 +78,8 @@ Plus one of the following shelter systems;
 - [ ] Flipflops
 - [ ] Down jacket
 - [ ] Rain/wind jacket
-- [ ] T-Shirt
-- [ ] Shorts
 - [ ] Long sleeve merino wool shirt
 - [ ] Light pants
-- [ ] Spare riding shorts
-- [ ] Spare riding shirt
 - [ ] Spare socks
 - [ ] Hat
 - [ ] Buff
@@ -104,14 +87,11 @@ Plus one of the following shelter systems;
 
 ## Wearing
 
-- [ ] Riding shorts
-- [ ] Riding shirt
+- [ ] Hiking shorts
+- [ ] Hiking shirt
 - [ ] Socks
-- [ ] Helmet
-- [ ] Gloves
+- [ ] Gaiteors*
 - [ ] Glasses
-- [ ] HR Monitor
-- [ ] Bike shoes
 
 ## Wash Kit
 
@@ -136,19 +116,17 @@ Plus one of the following shelter systems;
 
 ## Other
 
-- [ ] Bike with mounts
-- [ ] Front bag
-- [ ] Frame bag
-- [ ] Seat bag
-- [ ] Top tube bag
-- [ ] Rear light
+- [ ] Pack
+- [ ] Rain cover
+- [ ] Hiking shoes
+- [ ] Hiking poles
+- [ ] Compass
 - [ ] Spare straps
 - [ ] Water bottles
-- [ ] 5 litre dry bags (x2) for fork cages
 - [ ] Paracord clothes line
 - [ ] Whistle
-- [ ] Lock
 - [ ] Credit/debit cards and ID
 - [ ] Watch
 - [ ] Phone
-
+- [ ] GPS*
+- [ ] Bear spray*
