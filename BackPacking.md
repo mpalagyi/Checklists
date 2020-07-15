@@ -42,7 +42,7 @@ Plus one of the following shelter systems;
 
 ## Cooking
 
-- [ ] 1.8 litre pot w/ lid
+- [ ] Pot w/ lid
 - [ ] Pot cleaner
 - [ ] Spices
 - [ ] Titanium mug w/ silicon lip guard
@@ -56,6 +56,7 @@ Plus one of the following shelter systems;
 - [ ] Matches
 - [ ] Fire steel
 - [ ] Ziplock bags
+- [ ] Food sack/hang bag
 
 ## Tool Kit
 
@@ -79,6 +80,8 @@ Plus one of the following shelter systems;
 - [ ] Down jacket
 - [ ] Rain/wind jacket
 - [ ] Long sleeve merino wool shirt
+- [ ] Long underwear*
+- [ ] Underwear
 - [ ] Light pants
 - [ ] Spare socks
 - [ ] Hat
@@ -90,7 +93,8 @@ Plus one of the following shelter systems;
 - [ ] Hiking shorts
 - [ ] Hiking shirt
 - [ ] Socks
-- [ ] Gaiteors*
+- [ ] Gaitors*
+- [ ] Gloves
 - [ ] Glasses
 
 ## Wash Kit
@@ -101,11 +105,13 @@ Plus one of the following shelter systems;
 - [ ] Deodorant
 - [ ] Small towel
 - [ ] Toilet paper
+- [ ] Trowel
+- [ ] Hand sanitizer
 - [ ] Advil
+- [ ] Allergy pills
 - [ ] Inhaler
 - [ ] Insect Repellent
 - [ ] Sunscreen
-- [ ] Lip balm
 
 ## Food
 
@@ -117,7 +123,9 @@ Plus one of the following shelter systems;
 ## Other
 
 - [ ] Pack
+- [ ] Waterproof bag for pack
 - [ ] Rain cover
+- [ ] Water bottles
 - [ ] Hiking shoes
 - [ ] Hiking poles
 - [ ] Compass
@@ -128,5 +136,16 @@ Plus one of the following shelter systems;
 - [ ] Credit/debit cards and ID
 - [ ] Watch
 - [ ] Phone
+- [ ] Camera and tripod
+- [ ] Car keys
 - [ ] GPS*
 - [ ] Bear spray*
+
+## Dogs
+
+- [ ] Leashes
+- [ ] Water bowl
+- [ ] Food bowls
+- [ ] Carabiner
+- [ ] Fleece blankets
+- [ ] Food
