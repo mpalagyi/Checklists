@@ -55,6 +55,7 @@ Plus one of the following shelter systems;
 - [ ] Matches
 - [ ] Food sack/hang bag
 - [ ] Tarp
+- [ ] Camp chair
 - [ ] MSR water bladder*
 
 ## Ditty Bag/Tool Kit
