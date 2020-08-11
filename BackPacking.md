@@ -40,7 +40,7 @@ Plus one of the following shelter systems;
 - [ ] Tent pegs
 - [ ] Underquilt
 
-## Cooking
+## Kamp Kitchen
 
 - [ ] Pot w/ lid
 - [ ] Pot cleaner
@@ -54,6 +54,7 @@ Plus one of the following shelter systems;
 - [ ] Water filter
 - [ ] Matches
 - [ ] Food sack/hang bag
+- [ ] Tarp
 - [ ] MSR water bladder*
 
 ## Ditty Bag/Tool Kit

@@ -40,7 +40,7 @@ Plus one of the following shelter systems;
 - [ ] Tent pegs
 - [ ] Underquilt
 
-## Cooking
+## Camp Kitchen
 
 - [ ] 1.8 litre pot w/ lid
 - [ ] Pot cleaner
@@ -56,6 +56,7 @@ Plus one of the following shelter systems;
 - [ ] Matches
 - [ ] Fire steel
 - [ ] Ziplock bags
+- [ ] Tarp
 
 ## Tool Kit
 
