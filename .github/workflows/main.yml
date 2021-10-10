@@ -47,7 +47,7 @@ jobs:
 
       - name: Release PDFs
         uses: ncipollo/release-action@v1
-        if: github.ref == 'refs/heads/main'
+        # if: github.ref == 'refs/heads/main'
         with:
           artifacts: "**/*.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
