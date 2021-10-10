@@ -1,0 +1,13 @@
+{
+  "name": "checklists",
+  "description": "Checklists written in Markdown and then converted to PDFs",
+  "author": "Rob Prouse <rob@prouse.org>",
+  "license": "MIT",
+  "packageManager": "yarn@3.0.2",
+  "scripts": {
+    "build": "md-to-pdf --config-file .config.json ./**/*.md"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.0.0"
+  }
+}

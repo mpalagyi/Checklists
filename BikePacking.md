@@ -152,4 +152,3 @@ Plus one of the following shelter systems;
 - [ ] Credit/debit cards and ID
 - [ ] Watch
 - [ ] Phone
-
