@@ -36,7 +36,7 @@ jobs:
       - name: ZIP PDFs
         uses: montudor/action-zip@v1
         with:
-          args: zip checklists.zip **/*.pdf
+          args: zip checklists.zip *.pdf
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
