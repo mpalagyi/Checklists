@@ -1,0 +1,7 @@
+{
+  "highlight_style": "monokai",
+  "pdf_options": {
+    "format": "Letter",
+    "margin": "20mm"
+  }
+}
